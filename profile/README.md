@@ -14,4 +14,16 @@
   - [黑夜工人Midnight Worker](https://github.com/EESAST-Software-Design-Competition/EESDC6-Midnight-Worker)
   - [少女遗迹之旅](https://github.com/EESAST-Software-Design-Competition/EESDC6-Maiden-Journey-to-the-Ruins)
   - [RenderToy](https://github.com/EESAST-Software-Design-Competition/EESDC6-RenderToy)
-  
+- 三等奖
+  - [信使](https://github.com/EESAST-Software-Design-Competition/EESDC6-Messengers)
+  - [失落的记忆](https://github.com/EESAST-Software-Design-Competition/EESDC6-The-Lost-Memories)
+  - THUer Fall Flat
+  - 匿名交流平台
+  - 混乱大枪战
+  - 微速前行
+  - AF is short of water 联机海战棋
+- 最佳协作奖
+  - [失落的记忆](https://github.com/EESAST-Software-Design-Competition/EESDC6-The-Lost-Memories)
+- 其他优秀作品
+  - AppeaRemind
+  - 文明0

@@ -2,7 +2,7 @@
 
 清华大学慧夜杯·软件设计大赛作品一览
 
-## THUAI6
+## EESDC6
 
 - 特等奖
   - Dimland：Midnight Traverse

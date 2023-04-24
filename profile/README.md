@@ -3,7 +3,6 @@
 清华大学慧夜杯·软件设计大赛作品一览
 
 ## EESDC6
-
 - 特等奖
   - Dimland：Midnight Traverse
 - 一等奖
@@ -29,3 +28,26 @@
   - AppeaRemind
   - 文明0
   - Gs跑酷
+
+## EESDC5
+- 特等奖
+  - Galaxy
+- 一等奖
+  - EEescape
+  - 棋物语
+- 二等奖
+  - 清华云盘 Remake
+  - 夺蛋录
+  - 乡村云站
+  - APHELION
+- 三等奖
+  - 头盔大作战
+  - Live Through The Week
+  - Physicraft
+  - 泡泡堂之无系大冒险
+  - 矩阵计算器
+  - HarmoNet
+  - 五子连星
+  - 我的世界模拟器
+- 最佳协作奖
+  - Live Through The Week

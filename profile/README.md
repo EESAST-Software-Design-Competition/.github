@@ -33,21 +33,23 @@
 - 特等奖
   - Galaxy
 - 一等奖
-  - EEescape
+  - [EEescape](https://github.com/EESAST-Software-Design-Competition/EESDC5-EEescape)
   - 棋物语
 - 二等奖
-  - 清华云盘 Remake
-  - 夺蛋录
+  - [清华云盘 Remake](https://github.com/EESAST-Software-Design-Competition/EESDC5-Tsinghua-Cloud-Remake)
+  - [夺蛋录](https://github.com/EESAST-Software-Design-Competition/EESDC5-Egg-Snatchers)
   - 乡村云站
-  - APHELION
+  - [APHELION](https://github.com/EESAST-Software-Design-Competition/EESDC5-APHELION)
 - 三等奖
-  - 头盔大作战
-  - Live Through The Week
+  - [头盔大作战](https://github.com/EESAST-Software-Design-Competition/EESDC5-Helmet-Battle)
+  - [Live Through The Week](https://github.com/EESAST-Software-Design-Competition/EESDC5-Live-Through-The-Week)
   - Physicraft
-  - 泡泡堂之无系大冒险
-  - 矩阵计算器
+  - [泡泡堂之无系大冒险](https://github.com/EESAST-Software-Design-Competition/EESDC5-Bubble-Hall-EEAdventure)
+  - [矩阵计算器](https://github.com/EESAST-Software-Design-Competition/EESDC5-Matrix)
   - HarmoNet
-  - 五子连星
-  - 我的世界模拟器
+  - [五子连星](https://github.com/EESAST-Software-Design-Competition/EESDC5-Five-Stars-Collinear)
+  - [我的世界模拟器](https://github.com/EESAST-Software-Design-Competition/EESDC5-Minecraft-Simulator)
 - 最佳协作奖
   - Live Through The Week
+- 其他优秀作品
+  - [Memory Master](https://github.com/EESAST-Software-Design-Competition/EESDC5-Memory-Master)

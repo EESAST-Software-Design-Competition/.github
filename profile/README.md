@@ -22,6 +22,7 @@
   - 混乱大枪战
   - 微速前行
   - AF is short of water 联机海战棋
+  - Immunomare
 - 最佳协作奖
   - [失落的记忆](https://github.com/EESAST-Software-Design-Competition/EESDC6-The-Lost-Memories)
 - 其他优秀作品

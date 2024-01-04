@@ -7,7 +7,7 @@
 本仓库在遵循各队伍意愿的情况下，开源了历届软设的部分作品，如下：
 
 ## EESDC6
-优秀作品视频链接：[https://www.bilibili.com/video/BV19M4y1877f/?spm_id_from=333.999.0.0&vd_source=e7f5f92e69d319223b8ff0631c6b1117](https://www.bilibili.com/video/BV19M4y1877f/?spm_id_from=333.999.0.0&vd_source=e7f5f92e69d319223b8ff0631c6b1117)
+优秀作品视频链接：[清华大学第六届慧夜杯·软件设计大赛作品秀](https://www.bilibili.com/video/BV19M4y1877f/?spm_id_from=333.999.0.0&vd_source=e7f5f92e69d319223b8ff0631c6b1117)
 - 特等奖
   - Dimland：Midnight Traverse
 - 一等奖

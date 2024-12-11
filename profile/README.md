@@ -9,7 +9,7 @@
 ## EESDC7
 优秀作品视频链接：
 - 特等奖
-  - 如果光有声音
+  - [如果光有声音](https://github.com/EESAST-Software-Design-Competition/EESDC7-Light)
 - 一等奖
   - [Sweet Dream](https://github.com/EESAST-Software-Design-Competition/EESDC7-Sweet_Dream)
   - [光影边缘](https://github.com/EESAST-Software-Design-Competition/EESDC7-EdgeofLightAndShadow)

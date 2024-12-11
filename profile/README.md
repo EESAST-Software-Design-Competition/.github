@@ -6,6 +6,34 @@
 
 本仓库在遵循各队伍意愿的情况下，开源了历届软设的部分作品，如下：
 
+## EESDC7
+优秀作品视频链接：
+- 特等奖
+  - 如果光有声音
+- 一等奖
+  - [Sweet Dream](https://github.com/EESAST-Software-Design-Competition/EESDC7-Sweet_Dream)
+  - [光影边缘](https://github.com/EESAST-Software-Design-Competition/EESDC7-EdgeofLightAndShadow)
+- 二等奖
+  - [CAD: ESCAPE](https://github.com/DragonAura/EESDC7-Stick_Figure_vs_CAD)
+  - [螺母战记/EESaga](https://github.com/EESAST-Software-Design-Competition/EESDC7-EESaga)
+  - UNO++：[Client](https://github.com/EESAST-Software-Design-Competition/EESDC7-UnoClient)、[Server](https://github.com/EESAST-Software-Design-Competition/EESDC7-UnoServer)
+  - 迷境吟游
+- 三等奖
+  - CCA:CLAP
+  - [Hexagon World](https://github.com/EESAST-Software-Design-Competition/EESDC7-HexagonWorld)
+  - [CliffShore](https://github.com/EESAST-Software-Design-Competition/EESDC7-CliffShore)
+  - Memories Treasured
+  - Rolling Maker
+  - [殷商秘机-清华寻道录](https://github.com/EESAST-Software-Design-Competition/EESDC7-TsinghuaAdventure)
+  - THU观荷
+  - (Who Steal My Nut)[https://github.com/EESAST-Software-Design-Competition/EESDC7-WhoStealMyNut]
+- 最佳协作奖
+  - [Slay Everyone](https://github.com/EESAST-Software-Design-Competition/EESDC7-SlayEveryone)
+- 其他优秀作品
+  - [敲黑板](https://github.com/EESAST-Software-Design-Competition/EESDC7-Blackboard)
+  - [keyboardOFbluetooth](https://github.com/EESAST-Software-Design-Competition/EESDC7-keyboardOFbluetooth)
+  - [DiaryProject](https://github.com/EESAST-Software-Design-Competition/EESDC7-CSimpleSchedule)
+
 ## EESDC6
 优秀作品视频链接：[清华大学第六届慧夜杯·软件设计大赛作品秀](https://www.bilibili.com/video/BV19M4y1877f/?spm_id_from=333.999.0.0&vd_source=e7f5f92e69d319223b8ff0631c6b1117)
 - 特等奖

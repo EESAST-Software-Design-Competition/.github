@@ -26,7 +26,7 @@
   - Rolling Maker
   - [殷商秘机-清华寻道录](https://github.com/EESAST-Software-Design-Competition/EESDC7-TsinghuaAdventure)
   - THU观荷
-  - (Who Steal My Nut)[https://github.com/EESAST-Software-Design-Competition/EESDC7-WhoStealMyNut]
+  - [Who Steal My Nut](https://github.com/EESAST-Software-Design-Competition/EESDC7-WhoStealMyNut)
 - 最佳协作奖
   - [Slay Everyone](https://github.com/EESAST-Software-Design-Competition/EESDC7-SlayEveryone)
 - 其他优秀作品
